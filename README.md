@@ -23,8 +23,10 @@ RLHF is proposed to align a model trained on general corpus to complex human val
 ## Bradley-Terry model
 Assumption of most RLHF algorithms: the preference signal can be modeled using the reward-based Bradley-Terry model.
 
-![RLHF Workflow: From Reward Modeling to Online RLHF](bt_model_rlhf_workflow.png)
-*RLHF Workflow: From Reward Modeling to Online RLHF.*
+<figure>
+  <img src="bt_model_rlhf_workflow.png" alt="Alt text" width="500">
+  <figcaption style="font-size: smaller; color: gray;">RLHF Workflow: From Reward Modeling to Online RLHF.</figcaption>
+</figure>
 
 * For Bradley-Terry model, the reward maximization approach is limited by the nature of “point-wise” rewards (scalar score for a single response to input x), which fails to express complex intransitive or cyclic preference relations. [[DNO](https://arxiv.org/abs/2404.03715)]
 
