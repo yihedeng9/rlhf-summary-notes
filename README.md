@@ -63,6 +63,8 @@ Assumption of most RLHF algorithms: the preference signal can be modeled using t
 - [Monte Carlo Tree Search Boosts Reasoning via Iterative Preference Learning.](https://arxiv.org/abs/2405.00451)
 
 ### Iterative DPO (Multiple Iterations)
+- [SAIL: Self-Improving Efficient Online Alignment of Large Language Models](https://arxiv.org/abs/2406.15567)
+- GSHF: [Iterative Preference Learning from Human Feedback: Bridging Theory and Practice for RLHF under KL-constraint](https://arxiv.org/pdf/2312.11456)
 - Self-Reward: [Self-Rewarding Language Models](https://arxiv.org/abs/2401.10020)
 - SPIN: [Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models](https://arxiv.org/abs/2401.01335)
 - [Building Math Agents with Multi-Turn Iterative Preference Learning.](https://arxiv.org/abs/2409.02392)
