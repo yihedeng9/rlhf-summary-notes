@@ -52,12 +52,14 @@ Assumption of most RLHF algorithms: the preference signal can be modeled using t
 ### Step-wise (Process) Reward
 - [Step-DPO: Step-wise Preference Optimization for Long-chain Reasoning of LLMs](https://arxiv.org/abs/2406.18629)
 - [ReST-MCTS∗: LLM Self-Training via Process Reward Guided Tree Search.](https://arxiv.org/abs/2406.03816)
-- [Flow-DPO: Improving LLM Mathematical Reasoning through Online Multi-Agent Learning](https://arxiv.org/abs/2410.22304)
-- [Monte Carlo Tree Search Boosts Reasoning via Iterative Preference Learning.](https://arxiv.org/abs/2405.00451) 
+- [Flow-DPO: Improving LLM Mathematical Reasoning through Online Multi-Agent Learning](https://arxiv.org/abs/2410.22304) 
 
 **Related to Process Reward Model (PRM)**
 - [Let's Verify Step by Step](https://arxiv.org/abs/2305.20050)
 - [Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations](https://arxiv.org/abs/2312.08935)
+**Related to Monte Carlo Tree Search (MTCS)**
+- [LLaMA-Berry: Pairwise Optimization for O1-like Olympiad-Level Mathematical Reasoning.](https://arxiv.org/abs/2410.02884)
+- [Monte Carlo Tree Search Boosts Reasoning via Iterative Preference Learning.](https://arxiv.org/abs/2405.00451)
 
 ### Iterative DPO (Multiple Iterations)
 - Self-Reward: [Self-Rewarding Language Models](https://arxiv.org/abs/2401.10020)
