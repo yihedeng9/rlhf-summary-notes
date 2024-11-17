@@ -46,6 +46,7 @@ Assumption of most RLHF algorithms: the preference signal can be modeled using t
 ### Beyond Bradley-Terry Model
 - [KTO: Model Alignment as Prospect Theoretic Optimization.](https://arxiv.org/abs/2402.01306)
 - DNO: [Direct Nash Optimization: Teaching Language Models to Self-Improve with General Preferences.](https://arxiv.org/abs/2404.03715)
+- [MaxMin-RLHF: Towards Equitable Alignment of Large Language Models with Diverse Human Preferences](https://arxiv.org/abs/2402.08925)
 ### Bias of Length
 - R-DPO: [Disentangling Length from Quality in Direct Preference Optimization.](https://arxiv.org/abs/2403.19159) 
 - [SimPO: Simple Preference Optimization with a Reference-Free Reward.](https://arxiv.org/abs/2405.14734)
