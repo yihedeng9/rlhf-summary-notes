@@ -35,9 +35,12 @@ Assumption of most RLHF algorithms: the preference signal can be modeled using t
 - [Training language models to follow instructions with human feedback.](https://arxiv.org/abs/2203.02155)
 - (Summary) [RLHF Workflow: From Reward Modeling to Online RLHF.](https://arxiv.org/pdf/2405.07863v1)
 - (Summary) [Secrets of RLHF in Large Language Models Part I: PPO.](https://arxiv.org/abs/2307.04964)
+- [Iterative Preference Learning from Human Feedback: Bridging  Theory and Practice for RLHF under KL-constraint](https://arxiv.org/abs/2312.11456)
 - (Algorithm) PPO: [Proximal Policy Optimization Algorithms.](https://arxiv.org/abs/1707.06347)
 - (Algorithm) RLOO: [Back to Basics: Revisiting REINFORCE Style Optimization for Learning from Human Feedback in LLMs.](https://arxiv.org/abs/2402.14740)
 - (Algorithm) GRPO: [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models.](https://arxiv.org/pdf/2402.03300)
+- (Algorithm) [ReMax: A Simple, Effective, and Efficient Reinforcement Learning Method for Aligning Large Language Models](https://arxiv.org/abs/2310.10505)
+- (Algorithm) [MaxMin-RLHF: Towards Equitable Alignment of Large Language Models with Diverse Human Preferences](https://arxiv.org/abs/2402.08925)
 
 ## Offline RL
 - DPO: [Direct Preference Optimization: Your Language Model is Secretly a Reward Model.](https://arxiv.org/abs/2305.18290) 
@@ -46,7 +49,6 @@ Assumption of most RLHF algorithms: the preference signal can be modeled using t
 ### Beyond Bradley-Terry Model
 - [KTO: Model Alignment as Prospect Theoretic Optimization.](https://arxiv.org/abs/2402.01306)
 - DNO: [Direct Nash Optimization: Teaching Language Models to Self-Improve with General Preferences.](https://arxiv.org/abs/2404.03715)
-- [MaxMin-RLHF: Towards Equitable Alignment of Large Language Models with Diverse Human Preferences](https://arxiv.org/abs/2402.08925)
 ### Bias of Length
 - R-DPO: [Disentangling Length from Quality in Direct Preference Optimization.](https://arxiv.org/abs/2403.19159) 
 - [SimPO: Simple Preference Optimization with a Reference-Free Reward.](https://arxiv.org/abs/2405.14734)
@@ -81,6 +83,8 @@ Self-training: preference siginal other than human/AI labeling for each data pai
 - (Multi-modal) [Aligning modalities in vision large language models via preference fine-tuning.](https://arxiv.org/abs/2402.11411)
 - (Multi-modal) [Enhancing Large Vision Language Models with Self-Training on Image Comprehension.](https://arxiv.org/abs/2405.19716)
 
+## SFT
+- [RAFT: Reward rAnked FineTuning for Generative Foundation  Model Alignment](https://arxiv.org/abs/2304.06767)
 
 ## Useful Blogs
 - [Policy Gradient Algorithms](https://lilianweng.github.io/posts/2018-04-08-policy-gradient/) 
