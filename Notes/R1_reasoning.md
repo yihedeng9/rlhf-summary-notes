@@ -89,12 +89,17 @@ Below, I summarize some key notes and insights from these follow-up efforts. For
 ---
 
 More related works:
+[**s1: Simple test-time scaling**](https://arxiv.org/abs/2501.19393)
 
 [**Self-Training Elicits Concise Reasoning in Large Language Models**](https://arxiv.org/abs/2502.20122)
 
 [**Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach**](https://arxiv.org/abs/2502.05171)
 
 [**Thinking Preference Optimization**](https://arxiv.org/abs/2502.13173)
+
+[**LightThinker: Thinking Step-by-Step Compression**](https://arxiv.org/abs/2502.15589)
+
+[**Self-rewarding correction for mathematical reasoning**](https://arxiv.org/abs/2502.19613)
 
 ## Surveys
 [**From System 1 to System 2: A Survey of Reasoning Large Language Models**](https://arxiv.org/abs/2502.17419)
