@@ -1,7 +1,7 @@
 # R1 Reasoning
 [DeepSeek-R1 tech report](https://arxiv.org/abs/2501.12948) explores how reinforcement learning (RL) can spark advanced chain-of-thought reasoning in language models. Notably, DeepSeek-R1 introduced the concept of a sudden “**aha moment**” during RL training with verifiable rewards, in which the model rapidly develops more sophisticated reasoning and self-reflection. This discovery, among with many others, has inspired a wave of open-source reproduction and extension projects. 
 
-Below, I summarize some key notes and insights from these follow-up efforts. For a deeper dive into the technical underpinnings of DeepSeek-R1 itself and the below blog/papers, please refer to the original papers for a complete read.
+Below, I summarize some key notes and insights from these follow-up efforts. For a deeper dive into DeepSeek-R1 itself and the below blog/papers, please refer to the original papers for a complete read.
 
 ## Open-Source Reproduction Projects
 [**Open-R1**](https://github.com/huggingface/open-r1/)
