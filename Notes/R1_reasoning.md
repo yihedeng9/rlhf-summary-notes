@@ -51,9 +51,9 @@ Below, I summarize some key notes and insights from these follow-up efforts. For
 
 ## Relevant Papers
 [**Demystifying Long Chain-of-Thought Reasoning in LLMs**](https://arxiv.org/abs/2502.03373)
-- A detailed analysis of longCoT reasoning in LLMs. These “long CoTs” often include branching, backtracking, error-checking, and other advanced features reminiscent of deeper analytical thinking. 
-- SFT with Long CoTs
-    - Fine-tuning a base model on long CoT data consistently outperforms short CoT training and continues improving with more data.
+- A detailed analysis of long CoT reasoning in LLMs. These long CoTs often include branching, backtracking, error-checking, and other advanced features similar to deeper analytical thinking. 
+- SFT with long CoTs
+    - Fine-tuning a base model on long CoT data consistently outperforms short CoT training and continues improving with *more data*.
 - Reward shaping for stable length growth
     - Simply relying on a verifiable reward can lead to unstable or explosive **CoT length growth**, causing outputs to exceed the context window and degrade performance.
     - The authors introduce a cosine reward function (varies by answer correctness and sequence length) to help stabilize length scaling. 
@@ -63,7 +63,7 @@ Below, I summarize some key notes and insights from these follow-up efforts. For
 - RL from base models vs. long-CoT–SFT models
     - Training RL directly from smaller base models sometimes fails to spark the “aha” behaviors.
     - Initializing RL with a model already tuned for long CoT consistently yields more robust exploration of longer reasoning paths. 
-- Latent Abilities and Data Origins
+- Latent abilities and data origins
     - The paper also suggests that capabilities like error-correction **may already exist as latent skills in base models** (due to large-scale pretraining on forum discussions and step-by-step solutions). 
     - RL and SFT can bring these “buried” skills to the surface with proper rewards, penalties, and prompts.
 
