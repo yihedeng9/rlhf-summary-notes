@@ -14,7 +14,7 @@ Below, I summarize some key notes and insights from these follow-up efforts. For
 
 
 
-## Blogs (Ongoing Work)
+## Blogs
 [**DeepScaleR: Surpassing O1-Preview with a 1.5B Model by Scaling RL**](https://pretty-radio-b75.notion.site/DeepScaleR-Surpassing-O1-Preview-with-a-1-5B-Model-by-Scaling-RL-19681902c1468005bed8ca303013a4e2)
 - Github repo: https://github.com/agentica-project/deepscaler 
 - Authors present [**DeepScaleR-1.5B-Preview**](https://huggingface.co/agentica-org/DeepScaleR-1.5B-Preview), a 1.5B-parameter language model finetuned via RL on math reasoning tasks. It surpasses O1-Preview on AIME2024 and performs strongly across multiple competition-level math benchmarks.
