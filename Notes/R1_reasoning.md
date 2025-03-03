@@ -49,7 +49,7 @@ Below, I summarize some key notes and insights from these follow-up efforts. For
     - **Superficial Self-Reflection** (SSR): While some models show self-reflection behavior, many of these are not effective and do not lead to correct answers. 
     - Response length and RL dynamics: The increasing response length often associated with the "aha moment" is not linked to emergent self-reflection but results from RL optimizing rule-based reward functions. The paper demonstrates that response length changes are a consequence of RL dynamics and not necessarily related to improved reasoning.
 
-## Relevant literatures
+## Relevant Papers
 [**Demystifying Long Chain-of-Thought Reasoning in LLMs**](https://arxiv.org/abs/2502.03373)
 - A detailed analysis of longCoT reasoning in LLMs. These “long CoTs” often include branching, backtracking, error-checking, and other advanced features reminiscent of deeper analytical thinking. 
 - SFT with Long CoTs
