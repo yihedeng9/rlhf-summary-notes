@@ -42,7 +42,7 @@ Below, I summarize some key notes and insights from these follow-up efforts. For
 - **“Aha Moments” and self-reflection**
     - The authors did not observe a clear “aha moment” with small-scale open-source models. Instead, they note that Qwen2.5-Math-7B-Base already uses reflective reasoning patterns, and neither iterative DPO nor PPO specifically increase their frequency.
 
-[**There May Not be Aha Moment in R1-Zero-like Training — A Pilot Study**](https://oatllm.notion.site/oat-zero)\
+[**There May Not be Aha Moment in R1-Zero-like Training — A Pilot Study**](https://oatllm.notion.site/oat-zero)
 - Github repo: https://github.com/sail-sg/oat-zero
 - The study challenges the common observation that this "**Aha Moment**" occurs during training, discovering that
     - Aha moment at epoch 0: Self-reflection patterns were observed in base models from the start, without requiring any post-training. This suggests the "Aha moment" is present right from the beginning.
