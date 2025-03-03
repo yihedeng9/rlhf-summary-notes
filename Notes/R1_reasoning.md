@@ -89,9 +89,12 @@ Below, I summarize some key notes and insights from these follow-up efforts. For
 ---
 
 More related works:
+
 [**s1: Simple test-time scaling**](https://arxiv.org/abs/2501.19393)
 
 [**Scaling Test-Time Compute Without Verification or RL is Suboptimal**](https://arxiv.org/abs/2502.12118)
+
+[**Can 1B LLM Surpass 405B LLM? Rethinking Compute-Optimal Test-Time Scaling**](https://arxiv.org/abs/2502.06703)
 
 [**Self-Training Elicits Concise Reasoning in Large Language Models**](https://arxiv.org/abs/2502.20122)
 
