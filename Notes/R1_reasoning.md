@@ -137,4 +137,4 @@ Below, I summarize some key notes and insights from these follow-up efforts. For
 
 ---
 
-Thanks to [Dang Nguyen](https://hsgser.github.io/) for pointing to some of the relevant papers!
+Thanks to [Dang Nguyen](https://hsgser.github.io/) and [Isha Puri](https://ishapuri.github.io/) for pointing to some of the relevant papers!
