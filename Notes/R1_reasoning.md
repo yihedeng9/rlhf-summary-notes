@@ -90,6 +90,12 @@ Below, I summarize some key notes and insights from these follow-up efforts. For
 
 ### More related works:
 
+**Technical reports**
+
+[**Kimi k1.5: Scaling Reinforcement Learning with LLMs**](https://arxiv.org/abs/2501.12599)
+
+[**Qwen2.5-Math Technical Report: Toward Mathematical Expert Model via Self-Improvement**](https://arxiv.org/abs/2409.12122)
+
 **Test-time scaling**
 
 [**Imitate, Explore, and Self-Improve: A Reproduction Report on Slow-thinking Reasoning Systems**](https://arxiv.org/abs/2412.09413)
@@ -102,11 +108,15 @@ Below, I summarize some key notes and insights from these follow-up efforts. For
 
 [**Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach**](https://arxiv.org/abs/2502.05171)
 
-**Concise reasoning**
+[**Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought**](https://arxiv.org/abs/2501.04682)
+
+**Concise/Efficient reasoning**
 
 [**Self-Training Elicits Concise Reasoning in Large Language Models**](https://arxiv.org/abs/2502.20122)
 
 [**LightThinker: Thinking Step-by-Step Compression**](https://arxiv.org/abs/2502.15589)
+
+[**Training Language Models to Reason Efficiently**](https://arxiv.org/abs/2502.04463)
 
 **Math reasoning**
 
@@ -118,5 +128,11 @@ Below, I summarize some key notes and insights from these follow-up efforts. For
 
 [**Thinking Preference Optimization**](https://arxiv.org/abs/2502.13173)
 
+[**On the Emergence of Thinking in LLMs I: Searching for the Right Intuition**](https://arxiv.org/abs/2502.06773)
+
 ## Surveys
 [**From System 1 to System 2: A Survey of Reasoning Large Language Models**](https://arxiv.org/abs/2502.17419)
+
+---
+
+Thanks to [Dang Nguyen](https://hsgser.github.io/) for pointing to some of the relevant papers!
