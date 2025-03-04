@@ -110,6 +110,8 @@ Below, I summarize some key notes and insights from these follow-up efforts. For
 
 [**Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought**](https://arxiv.org/abs/2501.04682)
 
+[**A Probabilistic Inference Approach to Inference-Time Scaling of LLMs using Particle-Based Monte Carlo Methods**](https://arxiv.org/abs/2502.01618)
+
 **Concise/Efficient reasoning**
 
 [**Self-Training Elicits Concise Reasoning in Large Language Models**](https://arxiv.org/abs/2502.20122)
