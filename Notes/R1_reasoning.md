@@ -18,7 +18,7 @@ Below, I summarize some key notes and insights from these follow-up efforts. For
 [**DeepScaleR: Surpassing O1-Preview with a 1.5B Model by Scaling RL**](https://pretty-radio-b75.notion.site/DeepScaleR-Surpassing-O1-Preview-with-a-1-5B-Model-by-Scaling-RL-19681902c1468005bed8ca303013a4e2)
 - Github repo: https://github.com/agentica-project/deepscaler 
 - Authors present [**DeepScaleR-1.5B-Preview**](https://huggingface.co/agentica-org/DeepScaleR-1.5B-Preview), a 1.5B-parameter language model finetuned via RL on math reasoning tasks. It surpasses O1-Preview on AIME2024 and performs strongly across multiple competition-level math benchmarks.
-- The work builds on DeepSeek-R1-Distill-Qwen-1.5B.
+- The work builds on `DeepSeek-R1-Distill-Qwen-1.5B`.
 - **Iterative Context Lengthening** (“Think Shorter, Then Longer”)
     - A critical challenge is the long outputs for math reasoning, which slow training and can lead to repetitive, unhelpful content. The team considers a staged approach with GRPO:
         - Begin with an 8K context window to keep outputs shorter and focus on correct reasoning.
